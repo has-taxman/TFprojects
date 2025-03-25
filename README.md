@@ -29,8 +29,12 @@ For specific instructions on running each example, refer to the README file with
 2. **02-one-webserver**  
    - A more advanced setup that deploys a web server on AWS, returning "Hello, World" at the root URL (`/`) while listening on port `8080`.
 
-2. **03-webserver-wiht-vars**  
+3. **03-webserver-with-vars**  
    - Terraform Web Server with vars: Example of how deploy a single web server on AWS (Amazon Web Services). The web server returns "Hello, World" for the URL / listening on port 8080, which is defined as a variable.
+
+4. **04-webserver-clusters**  
+   - Terraform Cluster Web Server: Example of how deploy a cluster of web servers on AWS (Amazon Web Services) using EC2 and Auto Scaling, as well as a load balancer using ELB. The cluster of web servers returns "Hello, World" for the URL /. The load balancer listens on port 80.
+
 ---
 
 ## 💡 Notes
