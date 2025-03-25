@@ -29,6 +29,8 @@ For specific instructions on running each example, refer to the README file with
 2. **02-one-webserver**  
    - A more advanced setup that deploys a web server on AWS, returning "Hello, World" at the root URL (`/`) while listening on port `8080`.
 
+2. **03-webserver-wiht-vars**  
+   - Terraform Web Server with vars: Example of how deploy a single web server on AWS (Amazon Web Services). The web server returns "Hello, World" for the URL / listening on port 8080, which is defined as a variable.
 ---
 
 ## 💡 Notes
