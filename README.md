@@ -15,7 +15,7 @@ Before you begin, ensure you have:
 
 The examples are written using **HashiCorp Configuration Language (HCL)**.
 
-All the code can be found inside the `code` folder.
+All the code can be found inside the numbered folders.
 
 For specific instructions on running each example, refer to the README file within each folder.
 
